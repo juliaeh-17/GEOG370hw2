@@ -1,1 +1,1 @@
-# GEOG370hw2
+# geog370hw2
