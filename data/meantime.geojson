@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "meantime",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8799937.309944931417704, 4288431.251394828781486 ] } }
+]
+}

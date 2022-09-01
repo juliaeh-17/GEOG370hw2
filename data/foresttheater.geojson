@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "foresttheater",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -8799232.204861007630825, 4288710.874668754637241 ] } }
+]
+}
